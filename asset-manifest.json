@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/sam-in95.github.io/test_build/static/css/main.f6fc623d.css",
-    "main.js": "/sam-in95.github.io/test_build/static/js/main.943c848b.js",
-    "static/js/787.310c8749.chunk.js": "/sam-in95.github.io/test_build/static/js/787.310c8749.chunk.js",
-    "static/media/Disket-Mono-Regular.woff2": "/sam-in95.github.io/test_build/static/media/Disket-Mono-Regular.8087cb17cab8adbab610.woff2",
-    "static/media/Disket-Mono-Bold.woff2": "/sam-in95.github.io/test_build/static/media/Disket-Mono-Bold.04f5248c61ef728c6559.woff2",
-    "index.html": "/sam-in95.github.io/test_build/index.html",
-    "main.f6fc623d.css.map": "/sam-in95.github.io/test_build/static/css/main.f6fc623d.css.map",
-    "main.943c848b.js.map": "/sam-in95.github.io/test_build/static/js/main.943c848b.js.map",
-    "787.310c8749.chunk.js.map": "/sam-in95.github.io/test_build/static/js/787.310c8749.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.670e81ab.js",
+    "static/js/787.f796cc78.chunk.js": "/static/js/787.f796cc78.chunk.js",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.670e81ab.js.map": "/static/js/main.670e81ab.js.map",
+    "787.f796cc78.chunk.js.map": "/static/js/787.f796cc78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6fc623d.css",
-    "static/js/main.943c848b.js"
+    "static/css/main.073c9b0a.css",
+    "static/js/main.670e81ab.js"
   ]
 }
