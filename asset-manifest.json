@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.1a2f4072.js",
-    "static/js/787.f796cc78.chunk.js": "/static/js/787.f796cc78.chunk.js",
+    "main.css": "/static/css/main.2a52c2c8.css",
+    "main.js": "/static/js/main.ee553664.js",
+    "static/js/787.310c8749.chunk.js": "/static/js/787.310c8749.chunk.js",
+    "static/media/Disket-Mono-Regular.woff2": "/static/media/Disket-Mono-Regular.8087cb17cab8adbab610.woff2",
+    "static/media/Disket-Mono-Bold.woff2": "/static/media/Disket-Mono-Bold.04f5248c61ef728c6559.woff2",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.1a2f4072.js.map": "/static/js/main.1a2f4072.js.map",
-    "787.f796cc78.chunk.js.map": "/static/js/787.f796cc78.chunk.js.map"
+    "main.2a52c2c8.css.map": "/static/css/main.2a52c2c8.css.map",
+    "main.ee553664.js.map": "/static/js/main.ee553664.js.map",
+    "787.310c8749.chunk.js.map": "/static/js/787.310c8749.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1a2f4072.js"
+    "static/css/main.2a52c2c8.css",
+    "static/js/main.ee553664.js"
   ]
 }
