@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a52c2c8.css",
-    "main.js": "/static/js/main.ee553664.js",
-    "static/js/787.310c8749.chunk.js": "/static/js/787.310c8749.chunk.js",
-    "static/media/Disket-Mono-Regular.woff2": "/static/media/Disket-Mono-Regular.8087cb17cab8adbab610.woff2",
-    "static/media/Disket-Mono-Bold.woff2": "/static/media/Disket-Mono-Bold.04f5248c61ef728c6559.woff2",
-    "index.html": "/index.html",
-    "main.2a52c2c8.css.map": "/static/css/main.2a52c2c8.css.map",
-    "main.ee553664.js.map": "/static/js/main.ee553664.js.map",
-    "787.310c8749.chunk.js.map": "/static/js/787.310c8749.chunk.js.map"
+    "main.css": "/sam-in95.github.io/test_build/static/css/main.f6fc623d.css",
+    "main.js": "/sam-in95.github.io/test_build/static/js/main.d1e207b3.js",
+    "static/js/787.310c8749.chunk.js": "/sam-in95.github.io/test_build/static/js/787.310c8749.chunk.js",
+    "static/media/Disket-Mono-Regular.woff2": "/sam-in95.github.io/test_build/static/media/Disket-Mono-Regular.8087cb17cab8adbab610.woff2",
+    "static/media/Disket-Mono-Bold.woff2": "/sam-in95.github.io/test_build/static/media/Disket-Mono-Bold.04f5248c61ef728c6559.woff2",
+    "index.html": "/sam-in95.github.io/test_build/index.html",
+    "main.f6fc623d.css.map": "/sam-in95.github.io/test_build/static/css/main.f6fc623d.css.map",
+    "main.d1e207b3.js.map": "/sam-in95.github.io/test_build/static/js/main.d1e207b3.js.map",
+    "787.310c8749.chunk.js.map": "/sam-in95.github.io/test_build/static/js/787.310c8749.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a52c2c8.css",
-    "static/js/main.ee553664.js"
+    "static/css/main.f6fc623d.css",
+    "static/js/main.d1e207b3.js"
   ]
 }
