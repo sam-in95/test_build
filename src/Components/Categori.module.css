@@ -1,0 +1,24 @@
+.categori {
+  width: 548px;
+  margin: 120px auto;
+}
+
+.categori ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+.categori ul li {
+  font-family: "GmarketSansBold";
+  width: 116px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.btnOn {
+  background-color: var(--green-color);
+}

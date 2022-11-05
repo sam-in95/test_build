@@ -1,0 +1,25 @@
+.pofol_wrap {
+  margin-top: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.pofol_item {
+  /* width: 548px;
+  height: 568px; */
+  width: 30%;
+  /* 길이 수정,, */
+  background-color: skyblue;
+  text-align: center;
+  line-height: 568px;
+  margin-bottom: 2rem;
+  margin-right: 28px;
+  transition: 0.5s;
+}
+
+.pofol_item:nth-child(3n) {
+  margin-right: 0;
+}

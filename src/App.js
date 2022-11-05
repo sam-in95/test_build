@@ -1,22 +1,41 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import React, { useState } from "react";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
-import MainHeader from "./MainHeader";
-import Main from "./Main";
-import Sub from "./Sub";
+import MouseCursor from "./UI/MouseCursor";
+import Main from "./Page/Main";
+import Seconds from "./Page/Seconds";
 
-import "./App.css";
+import classes from "./App.module.css";
+import "./reset.css";
 
 function App() {
+  const [mouseData, setMouseData] = useState();
+
   return (
-    <BrowserRouter>
-      <MainHeader />
-      <main>
+    <div className={classes.wrap} style={{ cursor: "none" }}>
+      <header className={classes.header}>
+        <h1>sam portfolio</h1>
+      </header>
+
+      <MouseCursor mouseDataHandler={mouseData} />
+
+      <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Main />}></Route>
-          <Route path="/sub" element={<Sub />}></Route>
+          <Route
+            exact
+            path="/"
+            element={
+              <Main
+                cursorData={(e) => {
+                  setMouseData(e);
+                }}
+              />
+            }
+          ></Route>
+          <Route path="/seconds" element={<Seconds />}></Route>
         </Routes>
-      </main>
-    </BrowserRouter>
+      </BrowserRouter>
+    </div>
   );
 }
 

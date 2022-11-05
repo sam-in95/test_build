@@ -1,0 +1,33 @@
+.path_1_wrap,
+.path_2_wrap {
+  position: absolute;
+}
+
+.path_1_wrap {
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -10px;
+}
+
+.path_2_wrap {
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -47px;
+}
+
+.path_1,
+.path_2 {
+  stroke-dasharray: 1180;
+  stroke-dashoffset: 1180;
+  animation: 3s ease-in-out door_1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes door_1 {
+  0% {
+    stroke-dashoffset: 1180;
+  }
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
